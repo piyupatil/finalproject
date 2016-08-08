@@ -1,0 +1,73 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 14, 2016, 2:34:03 PM
+    Author     : PradnyaPatil
+*/
+ .affix {
+      top:0;
+      width: 100%;
+      z-index: 9999 !important;
+  }
+.affix ~ .container-fluid {
+     position: relative;
+     top: 50px;
+  }
+body{
+    padding-top:50px;
+    height:600px;
+   background-image:url("img/1.jpg");
+    alignment-adjust: auto;
+}
+ .thumbnail{
+     // background-color: black;
+      //opacity: 0.4;
+       background: rgba(0, 0, 0, .5);
+       color:black;
+    
+  }
+ h1{
+      text-align: center;
+      font-size: 500%;
+      margin-bottom: 5%;
+      color:#c9e2b3;
+  }
+  h2{
+     padding-bottom: 5%;
+     color:white;
+  }
+ 
+  label{
+      text-size:200%;
+      color:white;
+  }
+  
+  .col-lg-3.thumbnail,.col-lg-8.thumbnail{
+    margin-left: 3%;
+    margin-top: 3%;
+    background: white;
+    padding: 2%;
+  }
+  .navbar-fixed-top,.navbar-inverse{
+      height: 15%;
+  }
+  .nav,.navbar-nav{
+      padding-top: 3.5%;
+      padding-left: 4%;
+  }
+  ul{
+      alignment-adjust: central;
+      font-size: 240%;
+      color: white;
+  }
+  th{
+      background-color:#0066cc;
+      color: white;
+      font-size: 120%;
+  }
+  .test{
+      height:175px;
+  }
