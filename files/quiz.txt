@@ -1,0 +1,79 @@
+
+1) All free softwares are open source software
+a.True
+b.False
+
+ans - b.
+
+2) Which of the following is not open source software
+a.LibreOffice
+b.Cheese
+c.VMware Workstation
+d.Wireshark
+
+ans - c.
+
+3) Long form of GPL
+a. Genral Project Licence
+b. Genral Public Licence
+c. Greate Project Licence
+d. Greate Public Licence
+
+ans - b.
+
+4) Founder of GNU project
+a. Kem Thomson
+b. Linus Torvarlds
+c. Richards Stallman
+d. Dennies Ritchie
+
+ans - c.
+
+
+
+
+5> 	
+A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?
+
+A.	5	B.	5.5
+C.	6	D.	8
+
+ans:C
+
+6>	
+Look at this series: 0,4,18,48,?
+What number should come next?
+
+A. 76         B. 100
+C. 49         D. 125
+
+ans.B
+
+7>
+Each problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.
+Blueberries cost more than strawberries.
+Blueberries cost less than raspberries.
+Raspberries cost more than strawberries and blueberries.
+If the first two statements are true, the third statement is
+
+A.	true
+B.	false
+C.	uncertain
+
+ans. A
+
+8>	
+SCD, TEF, UGH, ____, WKL
+
+A.	CMN	B.	VJI
+C.	VIJ	D.	IJT
+
+ans. C
+
+9>
+If avarage of 5  consecutive odd numbers is 25. Then what is smallest no. in that series.
+
+A.  27  B. 31
+C.  25  D. 21
+
+ans.  D
